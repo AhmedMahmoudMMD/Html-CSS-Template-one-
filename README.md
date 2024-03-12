@@ -4,12 +4,12 @@ Leon is a simple project created with HTML and CSS, featuring a clean and minima
 
 ## Table of Contents
 
+- [Technologies Used](#technologies-used)
 - [About](#about)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+
+
 
 ## Technologies Used
 
