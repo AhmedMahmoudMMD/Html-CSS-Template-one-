@@ -37,7 +37,8 @@ Leon is a simple yet elegant project designed to demonstrate the power of clean 
 To use Leon, simply clone the repository and follow the installation steps. Customize the content, colors, and layout to suit your needs. Leon can serve as a starting point for creating your personal portfolio or showcasing small projects.
 
   ## Author
-[Ahmed Mahmoud](www.linkedin.com/in/ahmedmahmoud-mmd-profile)
+[Ahmed Mahmoud](https://www.linkedin.com/in/ahmedmahmoud-mmd-profile)
+
 
 
 
