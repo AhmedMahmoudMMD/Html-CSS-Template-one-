@@ -8,7 +8,7 @@ Leon is a simple project created with HTML and CSS, featuring a clean and minima
 - [About](#about)
 - [Features](#features)
 - [Usage](#usage)
-
+- [Author](#Author)
 
 
 ## Technologies Used
